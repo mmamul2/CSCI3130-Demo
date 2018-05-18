@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">CSCI3130-Demo</string>
+    <string name="box_hint">Enter text</string>
+    <string name="button_text">BUTTON</string>
 </resources>
